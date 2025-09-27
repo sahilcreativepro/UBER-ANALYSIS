@@ -68,5 +68,5 @@ For feedback, queries, or collaboration:
 
 * Author: Sahil Kumarr
 * Email: (storyofsahil@gmail.com)
-* LinkedIn: [www.linkedin.com/in/sahil-kumar-1079b135b](www.linkedin.com/in/sahil-kumar-1079b135b)
+* LinkedIn: (www.linkedin.com/in/sahil-kumar-1079b135b)
 
