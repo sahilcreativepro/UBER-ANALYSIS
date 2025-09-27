@@ -66,7 +66,7 @@ This project helps explore ride patterns, revenue, customer behavior, and geogra
 
 For feedback, queries, or collaboration:
 
-* Author: Your Name
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* LinkedIn: [Your LinkedIn Profile](#)
+* Author: Sahil Kumarr
+* Email: [your.email@example.com](storyofsahil@gmail.com)
+* LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sahil-kumar-1079b135b)
 
