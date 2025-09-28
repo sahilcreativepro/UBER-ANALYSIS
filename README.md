@@ -28,7 +28,7 @@ This project helps explore ride patterns, revenue, customer behavior, and geogra
 *(Add a screenshot of your Uber dashboard here)*
 
 ```md
-![[Uber Dashboard Screenshot](dashboard.png](https://github.com/sahilcreativepro/UBER-ANALYSIS/blob/5ab80bbb40602afbb2eec413cecd21d976b6dd89/Screenshot%202025-09-28%20222600.png))
+![[Uber Dashboard Screenshot]([dashboard.png](https://github.com/sahilcreativepro/UBER-ANALYSIS/blob/5ab80bbb40602afbb2eec413cecd21d976b6dd89/Screenshot%202025-09-28%20222600.png](https://github.com/sahilcreativepro/UBER-ANALYSIS/blob/20107af94411bcfac9918992fd81751be39ca0f0/Screenshot%202025-09-28%20222935.png)))
 ```
 
 ---
